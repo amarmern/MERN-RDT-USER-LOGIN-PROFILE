@@ -1,0 +1,9 @@
+mongodb
+
+database mernauth
+username: amarmca51
+pass: amar123
+
+mongodb+srv://amarmca51:amar123@mernauth.jo8somt.mongodb.net/?retryWrites=true&w=majority&appName=mernauth
+
+mongodb+srv://amarmca51:amar123@mernauth.jo8somt.mongodb.net/
